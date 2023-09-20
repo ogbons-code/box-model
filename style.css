@@ -1,0 +1,23 @@
+main{
+    background: yellow;
+    width: 80vw;
+    height: 100vh;
+}
+
+div{
+    width: 40%;
+    background: purple;
+    display: inline-block;
+    color: wheat;
+    height: 200px;
+    padding: 10px;
+    border: 10px dashed green;
+    margin: 20px 20px;
+    /* background-image: url(""); */
+    background-image: url("https://dailypost.ng/wp-content/uploads/2023/04/Wole-Soyinka.jpg");
+    background-position: center;
+}
+
+/* div:nth-child(3){
+    background: indianred;
+} */
