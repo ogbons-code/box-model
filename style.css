@@ -18,6 +18,12 @@ div{
     background-position: center;
 }
 
+img{
+    display: block;
+    width: 40%;
+    border-radius: 50%;
+}
+
 /* div:nth-child(3){
     background: indianred;
 } */
